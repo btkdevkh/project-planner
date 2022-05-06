@@ -5,6 +5,11 @@
 npm install
 ```
 
+### Start the backend jsonserver api for development
+```
+npm run jsonserve
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve

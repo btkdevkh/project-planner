@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "Do a revision on VueJS 3",
+      "details": "Make a refresh on VueJS 3.",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "title": "Learn new feature Composition API",
+      "details": "New feature in VueJS 3",
+      "complete": false,
+      "id": 2
+    }
+  ]
+}
